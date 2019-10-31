@@ -1,0 +1,55 @@
+{
+  "tops": {
+    "data": [
+      {
+        "id": "a003",
+        "begin": "2017-04-20 12:00:00",
+        "end": "2020-04-20 12:00:00",
+        "content": "登录账号，送会员，体验特权，免广告",
+        "confirm": "立即登录",
+        "title": "登录账号，免广告",
+        "cancel": "稍后",
+        "opt": 4,
+        "optparams": "",
+        "temp_no_ad": 0,
+        "account_type": [
+          -1
+        ],
+        "ispayed": -1,
+        "query_count": [
+          -1,
+          -1
+        ],
+        "click": 1,
+        "can_close": true
+      },
+      {
+        "id": "a010",
+        "begin": "2018-06-18 00:00:00",
+        "end": "2020-07-01 23:59:59",
+        "title": "支付宝红包",
+        "content": "打开支付宝首页搜索 “9383763”，即可领红包",
+        "confirm": "好的",
+        "cancel": "",
+        "opt": 0,
+        "optparams": "",
+        "temp_no_ad": 0,
+        "account_type": [
+          -1,
+          0,
+          1,
+          2,
+          3
+        ],
+        "ispayed": -1,
+        "query_count": [
+          -1,
+          -1
+        ],
+        "click": 1,
+        "can_close": true
+      }
+    ],
+    "open": true
+  }
+}
